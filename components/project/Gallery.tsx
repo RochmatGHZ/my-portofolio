@@ -46,7 +46,7 @@ export default function Gallery({
                   alt={item.caption}
                   fill
                   sizes="100vw"
-                  className="object-cover"
+                  className="object-contain"
                 />
               </div>
 
