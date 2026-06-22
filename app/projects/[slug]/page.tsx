@@ -138,7 +138,7 @@ export default async function ProjectDetail({
       <section className="mt-16">
 
         {/* Overview */}
-        <div className="max-w-4xl">
+        <div className="max-w-6xl">
           <h2
             className="
               mb-6
@@ -155,7 +155,6 @@ export default async function ProjectDetail({
           <p
             className="
               text-justify
-              text-lg
               leading-10
               text-slate-300
             "
