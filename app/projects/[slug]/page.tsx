@@ -154,7 +154,9 @@ export default async function ProjectDetail({
 
           <p
             className="
-              leading-9
+              text-justify
+              text-lg
+              leading-10
               text-slate-300
             "
           >
